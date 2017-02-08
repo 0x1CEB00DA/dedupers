@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["0x1CEB00DA <github-iceboodha+spam@corezero.net>"]
 
 [dependencies]
+walkdir = "1.0.7"
